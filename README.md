@@ -4,6 +4,6 @@
 
 [시연영상] 
 <p align="center">
-![webapporor](https://github.com/datehubin/webappcloneoror/assets/130430699/346f8d6c-1a1f-47df-b312-9182c0854ee8)
+<img src="![webapporor](https://github.com/datehubin/webappcloneoror/assets/130430699/346f8d6c-1a1f-47df-b312-9182c0854ee8)">
 
 
